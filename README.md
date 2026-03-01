@@ -14,7 +14,7 @@ Firstly, place StepSpark on a flat surface and gently step on the top panel, whi
 
 # The Use of ESP32
 
-Basically, the ESP32's firmware counts one button press as one step and makes the INTERNAL LED blink once for every step detected...the external LED is not affacted by the ESP 32. It provides real-time confirmation even though it's not powered on the whole time, proving it could be a big step-up in humanity to provide electricity only by stepping continuously in busy streets. 
+Basically, the ESP32's firmware is simple without continuous supply of power which only blinks 3 times during startup and prints "Power Generated" when a step is detected.
 
 # THE WIRING 
 
