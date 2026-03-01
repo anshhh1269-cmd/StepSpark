@@ -11,3 +11,18 @@ Even though this would create less power with one footstep, it just goes to show
 # How to use StepSpark
 
 Firstly, place StepSpark on a flat surface and gently step on the top panel, which pushes the panel down and spins the internal motor to generate electricity. The generated energy lights up an LED to show the power being created. Repeated steps generate more energy.
+
+# The Use of ESP32
+
+Basically, the ESP32's firmware counts one button press as one step and makes the INTERNAL LED blink once for every step detected...the external LED is not affacted by the ESP 32. It provides real-time confirmation even though it's not powered on the whole time, proving it could be a big step-up in humanity to provide electricity only by stepping continuously in busy streets. 
+
+# THE WIRING 
+
+<img width="757" height="496" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/2f3bdd30-62f6-4e77-9fcc-a4504ae63036" />
+
+# THE 3D MODEL BY ONSHAPE 
+
+<img width="1357" height="740" alt="image" src="https://github.com/user-attachments/assets/51e97e8b-a26c-429b-b228-d67ccab1a32f" />
+
+Public Link: https://cad.onshape.com/documents/1c86c19e9812e6e47bd306d6/w/e9e4d0fd52e8b37230a7d31e/e/901bc7dbaa95eb627d79ce81?renderMode=0&uiState=69a3d0e40127f2433f79dd9a
+
