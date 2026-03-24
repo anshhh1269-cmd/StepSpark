@@ -14,7 +14,7 @@ Firstly, place StepSpark on a flat surface and gently step on the top panel, whi
 
 # The Use of ESP32
 
-Basically, the ESP32's firmware is simple without continuous supply of power which only blinks 3 times during startup and prints "Power Generated" when a step is detected.
+Basically, the ESP32's firmware is simple without continuous supply of power which only blinks 3 times during startup and prints "Power Generated" when a step is detected. The ESP32 firmware is designed for event based activation, where each step triggers a cycle and a predefined response, which is the blinking of the internal LED. 
 
 # THE WIRING 
 
