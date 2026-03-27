@@ -19,8 +19,11 @@ Basically, the ESP32's firmware is simple without continuous supply of power whi
 # THE WIRING 
 
 <img width="757" height="496" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/2f3bdd30-62f6-4e77-9fcc-a4504ae63036" />
-<img width="475" height="472" alt="PCB_PCB_StepSpark1_2_2026-03-27 (2)" src="https://github.com/user-attachments/assets/9648fc4d-1734-4beb-9016-fc3bfd6c6b20" />
 
+# PCB and Schematics
+
+<img width="475" height="472" alt="PCB_PCB_StepSpark1_2_2026-03-27 (2)" src="https://github.com/user-attachments/assets/9648fc4d-1734-4beb-9016-fc3bfd6c6b20" />
+<img width="2923" height="2068" alt="Schematic_StepSpark1_2026-03-27" src="https://github.com/user-attachments/assets/035af409-d76e-454b-ad1f-358f68644ab6" />
 
 # THE 3D MODEL BY ONSHAPE 
 
