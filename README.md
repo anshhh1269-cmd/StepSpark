@@ -23,8 +23,10 @@ Basically, the ESP32's firmware is simple without continuous supply of power whi
 # PCB and Schematics(3D)
 
 <img width="475" height="472" alt="PCB_PCB_StepSpark1_2_2026-03-27 (2)" src="https://github.com/user-attachments/assets/9648fc4d-1734-4beb-9016-fc3bfd6c6b20" />
-<img width="2923" height="2068" alt="Schematic_StepSpark1_2026-03-27" src="https://github.com/user-attachments/assets/035af409-d76e-454b-ad1f-358f68644ab6" />
-<img width="831" height="762" alt="image" src="https://github.com/user-attachments/assets/401398a6-5966-4f09-a87e-f746b50dc985" />
+<img width="475" height="472" alt="pcb png" src="https://github.com/user-attachments/assets/f6219ee1-7d0e-40f4-a3de-b2dfea0c5ba1" />
+<img width="987" height="780" alt="image" src="https://github.com/user-attachments/assets/43bf5ab5-e237-4d9a-a126-cd9204e2499a" />
+<img width="1067" height="822" alt="image" src="https://github.com/user-attachments/assets/eeea3f20-6001-4361-8d1f-380f25200bb9" />
+
 
 
 # THE 3D MODEL BY ONSHAPE 
