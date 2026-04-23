@@ -33,5 +33,7 @@ Basically, the ESP32's firmware is simple without continuous supply of power whi
 <img width="1052" height="797" alt="Screenshot 2026-04-23 231851" src="https://github.com/user-attachments/assets/3992ea53-19be-4a69-bf1f-09404eda0480" />
 
 **Public Link: https://cad.onshape.com/documents/1c86c19e9812e6e47bd306d6/w/e9e4d0fd52e8b37230a7d31e/e/901bc7dbaa95eb627d79ce81?renderMode=0&uiState=69a3d0e40127f2433f79dd9a**
+
 **A STRING will be there from the motor shaft to the top panel, so it moves and conducts electricity. Not shown in Onshape.**
+**ALL PARTS (PCB AND MOTOR) ARE SCREWED ON TO THE BOTTOM PANEL SHOWN IN ONSHAPE**
 
