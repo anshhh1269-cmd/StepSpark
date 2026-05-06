@@ -39,7 +39,7 @@ Basically, the ESP32's firmware is simple without continuous supply of power whi
 
 ## Bill of Materials
 
-| # | Item | Quantity | Use | Cost (THB) | Link |
+| # | Item | Quantity | Use | Cost (THB) WITH SHIPPING COSTS | Link |
 |---|------|----------|-----|-----------|------|
 | 1 | Top wooden/acrylic panel (40cm x 40cm) | 1 | Surface people step on to create movement | 215 | [Buy](https://shopee.co.th/...) |
 | 2 | Bottom wooden base (40cm x 40cm) | 1 | Fixed base that holds all components | 215 | [Buy](https://shopee.co.th/...) |
