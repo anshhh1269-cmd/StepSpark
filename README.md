@@ -38,5 +38,3 @@ Basically, the ESP32's firmware is simple without continuous supply of power whi
 **ALL PARTS (PCB AND MOTOR) ARE SCREWED ON TO THE BOTTOM PANEL SHOWN IN ONSHAPE**
 
 
-| 22 | PCB Custom Order | 1 | Designed using gerber file | 240 | [Buy](https://www.pcbway.com/...) |
-| | **Total** | | | **3,958 THB** | |
