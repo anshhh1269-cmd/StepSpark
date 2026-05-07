@@ -37,30 +37,6 @@ Basically, the ESP32's firmware is simple without continuous supply of power whi
 **A STRING will be there from the motor shaft to the top panel, so it moves and conducts electricity. Not shown in Onshape.**
 **ALL PARTS (PCB AND MOTOR) ARE SCREWED ON TO THE BOTTOM PANEL SHOWN IN ONSHAPE**
 
-## Bill of Materials
 
-| # | Item | Quantity | Use | Cost (THB) WITH SHIPPING COSTS | Link |
-|---|------|----------|-----|-----------|------|
-| 1 | Top wooden/acrylic panel (40cm x 40cm) | 1 | Surface people step on to create movement | 215 | [Buy](https://shopee.co.th/...) |
-| 2 | Bottom wooden base (40cm x 40cm) | 1 | Fixed base that holds all components | 215 | [Buy](https://shopee.co.th/...) |
-| 3 | Springs set (medium stiffness) | 1 | Allow vertical movement and return panel to position | 317 | [Buy](https://shopee.co.th/...) |
-| 4 | DC Motor | 2 | Acts as generator to convert motion into electricity | 216 | [Buy](https://shopee.co.th/...) |
-| 5 | Strong string/thread | 2 | Connects top panel movement to motor shaft | 74 | [Buy](https://shopee.co.th/...) |
-| 6 | Rubber band | 1 | Maintains tension and helps return motor shaft | 69 | [Buy](https://shopee.co.th/...) |
-| 7 | LED | 10 | Visual indicator that electricity is generated | 210 | [Buy](https://shopee.co.th/...) |
-| 8 | Bridge Rectifier | 2 | Form bridge rectifier to control current direction | 54 | [Buy](https://shopee.co.th/...) |
-| 9 | Capacitor (2200µF) | 5 | Stores charge and smooths LED output | 150 | [Buy](https://shopee.co.th/...) |
-| 10 | Connecting wires | 1 | Electrical connections between components | 140 | [Buy](https://shopee.co.th/...) |
-| 11 | Screws / Standoffs / Tape | 1 set | Assembly hardware for frame and electronics | 202 | [Buy](https://shopee.co.th/...) |
-| 12 | Motor mounting bracket | 2 | Holds motor securely in place | 120 | [Buy](https://shopee.co.th/...) |
-| 13 | Soldering iron | 1 | Needed to solder parts together | 179 | [Buy](https://shopee.co.th/...) |
-| 14 | Hot glue gun sticks | 1 pack | Needed for hot glue gun | 109 | [Buy](https://shopee.co.th/...) |
-| 15 | Solder Wire | 1 | Needed for the soldering iron | 350 | [Buy](https://shopee.co.th/...) |
-| 16 | Foam Stoppers | 18 | Flexibility for positioning | 84 | [Buy](https://shopee.co.th/...) |
-| 17 | Stepper Motor | 1 | Acts as a better generator to draw more current | 366 | [Buy](https://shopee.co.th/...) |
-| 18 | Resistor | 5 | Used to protect LED from burning | 90 | [Buy](https://shopee.co.th/...) |
-| 19 | Booster | 1 | Keep voltage constant at 4-5V | 41 | [Buy](https://shopee.co.th/...) |
-| 20 | ESP 32 | 2 | Used to control the LED | 360 | [Buy](https://shopee.co.th/...) |
-| 21 | PCB Board | 1 | Used to handle all the wirings | 207 | [Buy](https://shopee.co.th/...) |
 | 22 | PCB Custom Order | 1 | Designed using gerber file | 240 | [Buy](https://www.pcbway.com/...) |
 | | **Total** | | | **3,958 THB** | |
