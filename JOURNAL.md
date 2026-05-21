@@ -58,7 +58,12 @@ soo the ESP32 blinks 3 times during its startup and prints "Power Generated" whe
 
 i might change my mind and add a battery later but not now :)...now i lowkey forgot to use hackatime as to show my coding process or a lapse but the coding time was approx like 2-3 hrs sooo yeaa :(
 
+worked on the bom.csv too like fixed all the links that weren't working and used newer cheap prices for my build. 
+
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEzMDkwLCJwdXIiOiJibG9iX2lkIn19--99006ce15ce2bc46db0d612436f66e018b23d51b/image.png)
+
+<img width="1476" height="767" alt="image" src="https://github.com/user-attachments/assets/33fb543e-0b54-463f-b653-f9fddd16d961" />
+
 
 # 3/27/2026 - first time doing pcb
 
