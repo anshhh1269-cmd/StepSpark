@@ -10,16 +10,19 @@ description: A step-powered energy generation device using ESP32, PCB, and 3D CA
 _Time spent: 5.0h_
 
 well i started this project two days ago...
-and basically i've created sketches in my nb and tried to solve it through many drawings and created files in onshape for seperate parts like the spring and the motor, as well as the bottom and top panel. moreover, im trying to also research on how i can make this project in obvi less money and more better. hoping it goes well, although, ngl for these simple parts i took bit too much time but ill try to improve. 
+and basically i've created sketches in my nb and tried to solve it through many drawings and created files in onshape for seperate parts like the spring and the motor, as well as the bottom and top panel. moreover, im trying to also research on how i can make this project in obvi less money and more better. hoping it goes well, although, ngl for these simple parts i took bit too much time but ill try to improve.
+these cylinders are basically the springs used in the project and im also learning onshape side by side.
 
 ![Screenshot 2026-02-06 201150](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTkyMzIsInB1ciI6ImJsb2JfaWQifX0=--e8df736d9bc4bc21d5fac08e81687b1fe937b86d/Screenshot%202026-02-06%20201150.png)
 
 # 2/11/2026 - Built all Part Studios
 
-_Time spent: 6.5h_
+_Time spent: 6.0h_
 
 hii..after doing the first part studio the others seemed easy
 i have done part studios for resistor, capacitor, everything except wires which seems a little tough right now. also i did this a bit faster for all the components in less than 6 hours so that's a plus point...also a bad thing was i havent figured out the wiring at all yet which should be the main thing, so beatin myself over it :(
+
+things that troubled me adding to the wiring was the mate connectors which were a little hard to figure out first but after some time i did get the hand of it.
 
 ![Screenshot 2026-02-11 193732](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyMjIwLCJwdXIiOiJibG9iX2lkIn19--b8f1d6e0767cbfa00aa2dfe500752adf0fb69372/Screenshot%202026-02-11%20193732.png)
 
@@ -29,13 +32,17 @@ _Time spent: 6.0h_
 
 after taking a few days off, i worked on getting all the part studios in place and then created an assembly...its still a work in progress and my aim is to finish all the onshape stuff in five days hopefully :)...also using the slider mates did take much time to fgure out but i finally did..although it doesn't look good ill try my best guys :(
 
+one hard thing was obvi the slider mates which i didnt know how to operate with and it kinda looked awkward in the starting, as it didn't look good. the good thing was getting to see all my part studios come together in an assembly and seeing everything work out.
+
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA4OTg1LCJwdXIiOiJibG9iX2lkIn19--6825833755a662d69f26f97c9ca08de2c942b222/image.png)
 
 # 2/24/2026 - Added all the components in onshape
 
-_Time spent: 6.8h_
+_Time spent: 4.3h_
 
 sooo i added all the components in the assembly and now will work on the wiring diagram which is quite difficult for me but yea progress is made :)....also this took a lot less time cause i finally got my hand around these types of mates and its coming together...it actually kinda looks like what i ahd planned but hope it looks better when its built...onto the wiring diagram nowww
+
+okay so about adding all the components became kinda easy for me as i got to know everything about the operation of all mates including slider, and fastened. 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwMzcxLCJwdXIiOiJibG9iX2lkIn19--f9ff366e98cf876bbff2876a042fcd25cb8bf998/image.png)
 
@@ -45,6 +52,8 @@ _Time spent: 4.5h_
 
 soo after finishing the Onshape things, i moved on to the wiring diagram..
 ik it's bad cause it's my first time and idk about the requirements but this is my diagram for now :)...this took some time to figure out since im doing electricals for the first time but yea gpt helped me process through it and i built this diagram..and will maybe be looking into building a whole pcb for the first time :)
+
+now a good thinng was i learnt more about wiring cause honestly i have never done this before; had some help on the outside to understand the components and it will take some time to get used to :(
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwODc5LCJwdXIiOiJibG9iX2lkIn19--daec2f22436dfafa6075d5566e6afd1354214dd2/image.png)
 
@@ -71,6 +80,8 @@ _Time spent: 4.4h_
 
 To improve this project, I worked on a PCB for the first time, and it kinda had many difficulties due to bugs and all that, but I think I pulled it through for a simple PCB...now it was my first time so i used easyEDA and not kicad cause it seemed simpler but i'll be using kicad for other projects for my complex wirings :)
 
+now using EasyEDA looked very simple and thank god I was able to go through all of the libraries and get the components needed; the PCB making took some time as I had to fix all the positions of the wires, making them straight and not curved. 
+
 thats it :)
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI4MDAwLCJwdXIiOiJibG9iX2lkIn19--e14cb97514578d9217416f2b9a7e0c8587e9ba02/image.png)
@@ -93,7 +104,7 @@ worked on the last review...everything is screwed up so it doen't float around a
 
 thats itt...will maybe work on how to show that a string is attached from the top panel to the motor and that's how it moves.
 
-so the good thing abt this session was that i didnt even know that we had screws in onshape..,and finding these screws actually feel good as it's looking like a good project...all thanks to the reviewers :)
+so the good thing abt this session was that i didnt even know that we had screws in onshape..,and finding these screws actually feel good as it's looking like a good project...all thanks to the reviewers :), but a bad thing again is the slider mate which keeps on troubling me and I maybe won't show the animation as it's a lower priority than others :(
 
 ![Screenshot 2026-04-21 210947](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1MzQzLCJwdXIiOiJibG9iX2lkIn19--681ded76071225fbedd415b7cd459ae1dcd39f48/Screenshot%202026-04-21%20210947.png)
 
