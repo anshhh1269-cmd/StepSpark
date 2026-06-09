@@ -7,28 +7,31 @@ description: A step-powered energy generation device using ESP32, PCB, and 3D CA
 
 # 2/6/2026 - Onshape 3D CAD
 
-_Time spent: 5.0h_
+_Time spent: 4.5h_
 
 well i started this project two days ago...
 and basically i've created sketches in my nb and tried to solve it through many drawings and created files in onshape for seperate parts like the spring and the motor, as well as the bottom and top panel. moreover, im trying to also research on how i can make this project in obvi less money and more better. hoping it goes well, although, ngl for these simple parts i took bit too much time but ill try to improve.
+
 these cylinders are basically the springs used in the project and im also learning onshape side by side.
 
 ![Screenshot 2026-02-06 201150](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTkyMzIsInB1ciI6ImJsb2JfaWQifX0=--e8df736d9bc4bc21d5fac08e81687b1fe937b86d/Screenshot%202026-02-06%20201150.png)
 
 # 2/11/2026 - Built all Part Studios
 
-_Time spent: 6.0h_
+_Time spent: 5.5h_
 
 hii..after doing the first part studio the others seemed easy
 i have done part studios for resistor, capacitor, everything except wires which seems a little tough right now. also i did this a bit faster for all the components in less than 6 hours so that's a plus point...also a bad thing was i havent figured out the wiring at all yet which should be the main thing, so beatin myself over it :(
 
-things that troubled me adding to the wiring was the mate connectors which were a little hard to figure out first but after some time i did get the hand of it.
+things that troubled me adding to the wiring was the mate connectors which were a little hard to figure out first but after some time i did get the hand of it. and now why did i create all part studios before?
+
+i took some help from an experienced onshape user, who said that creating all part studios before is better and not leaving any other part for a future time. 
 
 ![Screenshot 2026-02-11 193732](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyMjIwLCJwdXIiOiJibG9iX2lkIn19--b8f1d6e0767cbfa00aa2dfe500752adf0fb69372/Screenshot%202026-02-11%20193732.png)
 
 # 2/22/2026 - Worked on the assembly in ONSHAPE
 
-_Time spent: 6.0h_
+_Time spent: 5.0h_
 
 after taking a few days off, i worked on getting all the part studios in place and then created an assembly...its still a work in progress and my aim is to finish all the onshape stuff in five days hopefully :)...also using the slider mates did take much time to fgure out but i finally did..although it doesn't look good ill try my best guys :(
 
@@ -42,13 +45,13 @@ _Time spent: 4.3h_
 
 sooo i added all the components in the assembly and now will work on the wiring diagram which is quite difficult for me but yea progress is made :)....also this took a lot less time cause i finally got my hand around these types of mates and its coming together...it actually kinda looks like what i ahd planned but hope it looks better when its built...onto the wiring diagram nowww
 
-okay so about adding all the components became kinda easy for me as i got to know everything about the operation of all mates including slider, and fastened. 
+okay so about adding all the components became kinda easy for me as i got to know everything about the operation of all mates including slider, and fastened. now obvi if I don't even use the slider mate it would be fine but my goal is to learn more and actually look at more animations as it looks more kinda cool and better to show others. 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwMzcxLCJwdXIiOiJibG9iX2lkIn19--f9ff366e98cf876bbff2876a042fcd25cb8bf998/image.png)
 
 # 2/25/2026 - did a simple wiring diagram
 
-_Time spent: 4.5h_
+_Time spent: 3.5h_
 
 soo after finishing the Onshape things, i moved on to the wiring diagram..
 ik it's bad cause it's my first time and idk about the requirements but this is my diagram for now :)...this took some time to figure out since im doing electricals for the first time but yea gpt helped me process through it and i built this diagram..and will maybe be looking into building a whole pcb for the first time :)
@@ -93,6 +96,10 @@ _Time spent: 5.5h_
 soooo i used the 3D model of the PCB and used screw mounts to mount the PCB with it's components into the bottom panel in Onshape.
 
 it worked, and also i replaced the cylinders with springs using the feature script tool in onshape and it looks better...i may try to implement animations into the springs...now the good thing abt this was that i finally found some springs to actually replace the dead beat cylinders however using a slider mate to show the animations still remain a problem and may not do it cause it's actually takin much of my time :(
+
+why did i mount the PCB? 
+
+i thought it was just floating in the air and it obvi had screw holes on it for a reason and using that as screw mounts would be a good man thing to do :)
 
 ![Screenshot 2026-04-20 165109](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM1Mjg3LCJwdXIiOiJibG9iX2lkIn19--5d6389da364bec72b59dcba3e8b362bb8e315d7e/Screenshot%202026-04-20%20165109.png)
 
