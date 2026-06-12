@@ -142,7 +142,7 @@ i thought it was just floating in the air and it obvi had screw holes on it for 
 
 # 4/21/2026 - Added screws everywhere
 
-_Time spent: 5.0h_
+_Time spent: 3.5h_
 
 worked on the last review...everything is screwed up so it doen't float around and actually looks buildable and not just a "dream"...
 
