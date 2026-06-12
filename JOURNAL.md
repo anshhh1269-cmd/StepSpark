@@ -128,7 +128,7 @@ thats it :)
 
 # 4/20/2026 - Making CAD better
 
-_Time spent: 5.5h_
+_Time spent: 3.5h_
 
 soooo i used the 3D model of the PCB and used screw mounts to mount the PCB with it's components into the bottom panel in Onshape.
 
@@ -142,7 +142,7 @@ i thought it was just floating in the air and it obvi had screw holes on it for 
 
 # 4/21/2026 - Added screws everywhere
 
-_Time spent: 3.5h_
+_Time spent: 5.5h_
 
 worked on the last review...everything is screwed up so it doen't float around and actually looks buildable and not just a "dream"...
 
