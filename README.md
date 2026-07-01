@@ -10,7 +10,16 @@ Even though this would create less power with one footstep, it just goes to show
 
 # How to use StepSpark
 
-Firstly, place StepSpark on a flat surface and gently step on the top panel, which pushes the panel down and spins the internal motor to generate electricity. The generated energy lights up an LED to show the power being created. Repeated steps generate more energy.
+Firstly, place StepSpark on a flat surface and gently step on the top panel, which pushes the panel down and spins the internal motor to generate electricity. The generated energy lights up an LED to show the power being created. Repeated steps generate more energy. Firstly, there would be a string attached from the top wooden board (the one the perosn would step on) to the motor shaft so that the motor can spin when there is a continuous amount of steps at a time ( the spring is not shown in onshape cause I wasn't able to produce it ); secondly, when the motor shaft spins it acts as a DC generator, converting mechanical energy into electrical energy. It outputs a fluctuating voltage depending on how fast the number of steps are taken at a time. 
+
+Because the motor’s output can be messy or even effectively alternating (AC) if it spins in different directions, the Bridge Rectifier is needed; it basically ensures that regardless of the motor's polarity, the output to the rest of the circuit remains constant in direction. The 100µF Capacitor acts as a reservoir, holding a more stable voltage, which prevents the whole thing from crashing if the output from the motor is severely varied. 
+
+Thirdly, the Boost Converter takes the potentially low or fluctuating voltage from the rectified motor and "boosts" it up to a steady, regulated 5V. The converter receives the raw power from the capacitor at VIN+ and outputs a clean, stable 5V at VOUT+. This 5V can power the ESP32 quite easily, and the microcontroller starts running the firmware code. 
+
+The lighting of the LED is the final output of this system; current flows from the VOUT+ pin of the Boost Converter. It travels through the LED and then through a 220-ohm resistor before returning to the VOUT- (Ground) pin. Without the resistor, the LED would draw too much current from the Boost Converter and would burn out instantly. 
+
+**The whole PCB is screwed on, so it's not a floating device, and even the motor shaft has been screwed on. 
+
 
 # The Use of ESP32
 
@@ -34,7 +43,7 @@ Basically, the ESP32's firmware is simple without continuous supply of power whi
 
 **Public Link: https://cad.onshape.com/documents/1c86c19e9812e6e47bd306d6/w/e9e4d0fd52e8b37230a7d31e/e/901bc7dbaa95eb627d79ce81?renderMode=0&uiState=69ea47f5f46d516a47411518**
 
-**A STRING will be there from the motor shaft to the top panel, so it moves and conducts electricity. Not shown in Onshape.**
+
 **ALL PARTS (PCB AND MOTOR) ARE SCREWED ON TO THE BOTTOM PANEL SHOWN IN ONSHAPE**
 
 
