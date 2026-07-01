@@ -166,6 +166,21 @@ thats it :)
 
 <img width="1052" height="797" alt="Screenshot 2026-04-23 231851" src="https://github.com/user-attachments/assets/7a26bfa2-b2e8-4f43-8932-6d5a458f6a26" />
 
+# 7/01/2026 - Worked on the review given for the last time :)
+
+_Time spent: 0.45h_
+
+hi! this project has been edited after a long long time...full deja vu ngl
+
+so basically the review i had gotten was that i didnt fully explain how this thing actually works and this was wrong on my side. since i had some free time tdy and wanted to get my mind off the recent projects i started to edit the readme and just spammed detailed explanation of how it works and how the LED is then lit up to showcase a future prospect which may be used in every country to generate electricity. 
+
+nothing else to say just i think it would be my last time editing this proj it was quite a long time ago and i want to focus on the newer projects but no promises tho, i may be back :)
+
+thats it for tdy :)
+
+<img width="1917" height="711" alt="image" src="https://github.com/user-attachments/assets/e3893d63-925d-47d3-9f2d-3615c7c085ee" />
+
+
 
 
 
