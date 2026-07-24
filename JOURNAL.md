@@ -180,6 +180,29 @@ thats it for tdy :)
 
 <img width="1917" height="711" alt="image" src="https://github.com/user-attachments/assets/e3893d63-925d-47d3-9f2d-3615c7c085ee" />
 
+# 7/24/2026 - Worked on the last review
+
+_Time spent: 2.5h_
+
+hi! so im kinda back after saying i wont be editing this project no more :(..but the review didnt seem so bad to give it some time and it was a valid point too. so basically the question arised 
+from my springs; how are the springs attached to the top panel or bottom panel; which thing makes them not fall out after an increase of force on the top panel. so i searched for some easy ways to do 
+this and thought to use two washers, a nut, and a large screw. now the size of the screw cooked me up :(
+
+first i got a 30mm one thought it would be enough; but the consequence of doing this project after such long time kicked in as the screw i needed was almost 90mm long. however, i couldn't find
+any big ones so i just took the 30mm one and extruded the tip to make it bigger as an adjustment. found the washers and nuts from mcmaster which took some time to find the correct one..
+
+then i went over to onshape and made through-all holes on the top panel and bottom panel on each four corners and surprisingly they all lined up together!!...so i used fastened mate for the screw and then same for the washer along with the nuts on the top face of the top panel. did the repeat for all three ,remaining corners which took some time outta my day. 
+
+after that, i fixed the second review of adding the total price in my bom..along with adding source files ( however, i used **EasyEDA** instead of KiCAD so I dont have the files requested but added all the json
+and the gerber files already from before )
+
+<img width="620" height="690" alt="Screenshot 2026-07-24 154309" src="https://github.com/user-attachments/assets/5d955401-b085-4dbc-8a6f-8781225c938c" />
+
+<img width="897" height="592" alt="Screenshot 2026-07-24 155123" src="https://github.com/user-attachments/assets/db8fa567-a5e0-49ce-bd19-fe7e857b211a" />
+
+<img width="775" height="683" alt="Screenshot 2026-07-24 220321" src="https://github.com/user-attachments/assets/b8838288-b93f-467c-8229-1fce0b8ae2b6" />
+
+<img width="650" height="535" alt="Screenshot 2026-07-24 220333" src="https://github.com/user-attachments/assets/a633803f-84ff-44e3-97fb-1f783bd16ce6" />
 
 
 
